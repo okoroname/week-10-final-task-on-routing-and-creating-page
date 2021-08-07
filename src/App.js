@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import AboutPage from './AboutPage';
 import ContactPage from './ContactPage';
 import LoginPage from './LoginPage';
